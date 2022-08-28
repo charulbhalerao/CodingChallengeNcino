@@ -1,0 +1,43 @@
+2022-08-28 12:05:55,792 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-28 12:20:01,080 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingChallengeNcino:Ncino:0.0.1-SNAPSHOT @ C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\pom.xml.
+2022-08-28 12:20:01,562 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:20:01,564 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\main\resources
+2022-08-28 12:20:01,568 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:20:01,570 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\test\resources
+2022-08-28 12:20:01,576 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CodingChallengeNcino/src
+2022-08-28 12:20:01,578 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CodingChallengeNcino/src/test/java because it overlaps with /CodingChallengeNcino/src
+2022-08-28 12:20:01,719 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-28 12:20:02,154 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingChallengeNcino:Ncino:0.0.1-SNAPSHOT @ C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\pom.xml.
+2022-08-28 12:20:02,412 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CodingChallengeNcino/src
+2022-08-28 12:20:02,413 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CodingChallengeNcino/src/test/java because it overlaps with /CodingChallengeNcino/src
+2022-08-28 12:20:02,456 [Worker-19: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-08-28 12:20:02,655 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:20:02,657 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\main\resources
+2022-08-28 12:20:02,659 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:20:02,661 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\test\resources
+2022-08-28 12:28:07,535 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:28:07,538 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\main\resources
+2022-08-28 12:28:07,540 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:28:07,585 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\test\resources
+2022-08-28 12:31:46,874 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:31:46,877 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\main\resources
+2022-08-28 12:31:46,878 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:31:46,880 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\test\resources
+2022-08-28 12:33:37,304 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CodingChallengeNcino:Ncino:0.0.1-SNAPSHOT @ C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\pom.xml.
+2022-08-28 12:33:38,470 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:33:38,472 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\main\resources
+2022-08-28 12:33:38,474 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:33:38,476 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\test\resources
+2022-08-28 12:34:03,223 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-28 12:36:59,761 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:36:59,765 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\main\resources
+2022-08-28 12:36:59,769 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 12:36:59,883 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\test\resources
+2022-08-28 13:15:20,610 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 13:15:20,612 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\main\resources
+2022-08-28 13:15:20,613 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 13:15:20,614 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\test\resources
+2022-08-28 13:44:05,525 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 13:44:05,528 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\main\resources
+2022-08-28 13:44:05,530 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-28 13:44:05,533 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Charul\eclipse-nCino\CodingChallengeNcino\src\test\resources

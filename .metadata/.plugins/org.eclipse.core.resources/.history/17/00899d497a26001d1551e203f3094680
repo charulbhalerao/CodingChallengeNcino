@@ -1,0 +1,16 @@
+
+public class CodingChallenge {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Charul\\Downloads\\chromedriver_win32\\chromedriver.exe"); //set the system properties 
+		WebDriver driver = new ChromeDriver(); //create the web instance
+		driver.manage().window().maximize(); // maximize the window
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(50));
+		
+		
+
+	}
+
+}
